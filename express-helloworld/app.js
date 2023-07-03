@@ -9,7 +9,7 @@ app.get('/mars', function(req, res){
   res.send('Hola Marte! \n');
 });
 
-//#endregion#
+//#comentarios#
 
 app.listen(8080, function () {
   console.log('Example app listening on port 8080!');
